@@ -1,0 +1,18 @@
+[submodule "hardhat-starter-kit"]
+	path = hardhat-starter-kit
+	url = https://github.com/smartcontractkit/hardhat-starter-kit
+[submodule "chainlink-mix"]
+	path = chainlink-mix
+	url = https://github.com/smartcontractkit/chainlink-mix
+[submodule "foundry-starter-kit"]
+	path = foundry-starter-kit
+	url = https://github.com/smartcontractkit/foundry-starter-kit
+[submodule "solana-starter-kit"]
+	path = solana-starter-kit
+	url = https://github.com/smartcontractkit/solana-starter-kit
+[submodule "dapptools-starter-kit"]
+	path = dapptools-starter-kit
+	url = https://github.com/smartcontractkit/dapptools-starter-kit
+[submodule "truffle-starter-kit"]
+	path = truffle-starter-kit
+	url = https://github.com/smartcontractkit/truffle-starter-kit
