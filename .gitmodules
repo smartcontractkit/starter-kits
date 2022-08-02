@@ -10,6 +10,9 @@
 [submodule "solana-starter-kit"]
 	path = solana-starter-kit
 	url = https://github.com/smartcontractkit/solana-starter-kit
+[submodule "apeworx-starter-kit"]
+	path = apeworx-starter-kit
+	url = https://github.com/smartcontractkit/apeworx-starter-kit
 [submodule "dapptools-starter-kit"]
 	path = dapptools-starter-kit
 	url = https://github.com/smartcontractkit/dapptools-starter-kit

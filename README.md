@@ -1,31 +1,29 @@
 # starter-kits
 A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem. 
 
+These are smart contract frameworks are template repos for your smart contract development journey. They are systems to help you:
+
+1. Test
+2. Deploy
+3. Interact with
+4. Maintain
+
+Your smart contracts.
+
 ## Active Repos
 
-<br/>
-<div styles="flex: 1 1 0%; flex-wrap: wrap;">
-<a href="https://github.com/smartcontractkit/chainlink-mix" target="_blank">
-<img src="./img/chainlink-brownie.png" width="225" alt="Chainlink Brownie logo">
-</a>
-<a href="https://github.com/smartcontractkit/hardhat-starter-kit" target="_blank">
-<img src="./img/chainlink-hardhat.png" width="225" alt="Chainlink Hardhat logo">
-</a>
-<a href="https://github.com/smartcontractkit/foundry-starter-kit" target="_blank">
-<img src="./img/chainlink-foundry.png" width="225" alt="Chainlink Foundry logo">
-</a>
-<a href="https://github.com/smartcontractkit/solana-starter-kit" target="_blank">
-<img src="./img/chainlink-solana.png" width="225" alt="Chainlink Solana logo">
-</a>
-<a href="https://github.com/smartcontractkit/hardhat-starter-kit/tree/typescript" target="_blank">
-<img src="./img/chainlink-hardhat-typescript.png" width="225" alt="Chainlink Hardhat Typescript logo">
-</a>
-</div>
-<br/>
+
+
+
+|                                                                                                                                                        |                                                                                                                                                                                               |                                                                                                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+|        [![Chainlink Mix](./img/chainlink-brownie.png)](https://github.com/smartcontractkit/chainlink-mix)  <h3>Brownie</h3>  Python & Solidity         |                     [![Chainlink Hardhat](./img/chainlink-hardhat.png)](https://github.com/smartcontractkit/hardhat-starter-kit)  <h3>Hardhat</h3>  Javascript & Solidity                     | [![Chainlink Foundry](./img/chainlink-foundry.png)](https://github.com/smartcontractkit/foundry-starter-kit)   <h3>Foundry</h3> Solidity & Solidity |
+| [![Chainlink Solana](./img/chainlink-solana.png)](https://github.com/smartcontractkit/solana-starter-kit) <h3>Anchor</h3>   Javascript & Rust (Solana) | [![Chainlink Hardhat](./img/chainlink-hardhat-typescript.png)](https://github.com/smartcontractkit/hardhat-starter-kit/tree/typescript)  <h3>Hardhat (Typescript)</h3>  Typescript & Solidity |   [![Chainlink Apeworx](./img/chainlink-apeworx.png)](https://github.com/smartcontractkit/apeworx-starter-kit)    <h3>Apeworx</h3> Python & Vyper   |
+
 
 ## Deprecated Repos
 
-<br/>
+
 <div styles="flex: 1 1 0%; flex-wrap: wrap;">
 <a href="https://github.com/smartcontractkit/dapptools-starter-kit" target="_blank">
 <img src="./img/chainlink-dapptools.png" width="100" alt="Chainlink Dapptools logo">
@@ -34,4 +32,4 @@ A repo of starter kits for working with various languages and frameworks across 
 <img src="./img/chainlink-truffle.png" width="100" alt="Chainlink Truffle logo">
 </a>
 </div>
-<br/>
+
