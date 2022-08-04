@@ -13,6 +13,9 @@
 [submodule "apeworx-starter-kit"]
 	path = apeworx-starter-kit
 	url = https://github.com/smartcontractkit/apeworx-starter-kit
+[submodule "huff-starter-kit"]
+	path = huff-starter-kit
+	url = https://github.com/smartcontractkit/huff-starter-kit
 [submodule "dapptools-starter-kit"]
 	path = dapptools-starter-kit
 	url = https://github.com/smartcontractkit/dapptools-starter-kit

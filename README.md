@@ -21,6 +21,15 @@ Your smart contracts.
 | [![Chainlink Solana](./img/chainlink-solana.png)](https://github.com/smartcontractkit/solana-starter-kit) <h3>Anchor</h3>   Javascript & Rust (Solana) | [![Chainlink Hardhat](./img/chainlink-hardhat-typescript.png)](https://github.com/smartcontractkit/hardhat-starter-kit/tree/typescript)  <h3>Hardhat (Typescript)</h3>  Typescript & Solidity |   [![Chainlink Apeworx](./img/chainlink-apeworx.png)](https://github.com/smartcontractkit/apeworx-starter-kit)    <h3>Apeworx</h3> Python & Vyper   |
 
 
+## Experimental Repos
+
+
+<div styles="flex: 1 1 0%; flex-wrap: wrap;">
+<a href="https://github.com/smartcontractkit/huff-starter-kit" target="_blank">
+<img src="./img/chainlink-huff.png" width="100" alt="Chainlink Huff logo">
+</a>
+</div>
+
 ## Deprecated Repos
 
 
