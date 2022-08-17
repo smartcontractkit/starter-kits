@@ -10,6 +10,8 @@ These are smart contract frameworks are template repos for your smart contract d
 
 Your smart contracts.
 
+> Click on the images below to go to their github repo!
+
 ## Active Repos
 
 
