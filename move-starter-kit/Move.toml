@@ -1,0 +1,19 @@
+[package]
+name = "move_starter_kit"
+version = "1.0.0"
+authors = []
+
+[addresses]
+sender = "<YOUR_ACCOUNT_ADDRESS>"
+owner = "<YOUR_ACCOUNT_ADDRESS>"
+data_feeds = "0xf1099f135ddddad1c065203431be328a408b0ca452ada70374ce26bd2b32fdd3"
+platform = "0x516e771e1b4a903afe74c27d057c65849ecc1383782f6642d7ff21425f4f9c99"
+move_stdlib = "0x1"
+aptos_std = "0x1"
+
+[dev-addresses]
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+MoveStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "main" }
+ChainlinkDataFeeds = { local = "./ChainlinkDataFeeds" }

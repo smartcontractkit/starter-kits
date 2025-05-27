@@ -1,0 +1,20 @@
+[package]
+name = "ChainlinkDataFeeds"
+version = "1.0.0"
+authors = []
+
+[addresses]
+data_feeds = "_"
+owner = "_"
+platform = "_"
+
+[dev-addresses]
+data_feeds = "0x100"
+owner = "0xcafe"
+platform = "0xbaba"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+ChainlinkPlatform = { local = "../ChainlinkPlatform" }
+
+[dev-dependencies]
