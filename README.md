@@ -90,6 +90,19 @@ Your smart contracts.
       </a>
     </td>
   </tr>
+  <tr style="vertical-align: top;">
+    <td width="20%">
+      <a href="https://github.com/Cyfrin/moccasin" style="text-decoration: none;">
+        <img src="./img/mark.svg" alt="Moccasin" width="60">
+        <h4 style="margin: 5px 0;">Moccasin</h4>
+        <div style="font-size: 12px;">Python & Solidity/Vyper</div>
+      </a>
+    </td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+  </tr>
 </table>
 
 ## Deprecated Repos
