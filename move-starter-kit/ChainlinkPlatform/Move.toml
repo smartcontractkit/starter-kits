@@ -1,0 +1,17 @@
+[package]
+name = "ChainlinkPlatform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+platform = "_"
+owner = "_"
+
+[dev-addresses]
+platform = "0x100"
+owner = "0xcafe"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[dev-dependencies]
