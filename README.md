@@ -2,7 +2,7 @@
 
 A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
 
-These are smart contract frameworks are template repos for your smart contract development journey. They are systems to help you:
+These are smart contract framework template repos for your smart contract development journey. They are systems to help you:
 
 1. Test
 2. Deploy
